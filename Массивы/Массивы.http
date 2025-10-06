@@ -1,0 +1,6 @@
+@Массивы_HostAddress = http://localhost:5186
+
+GET {{Массивы_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
